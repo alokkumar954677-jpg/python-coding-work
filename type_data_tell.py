@@ -1,0 +1,9 @@
+a=2.5
+t=type(a)
+print(t)
+b=3
+t=type(b)
+print(t)
+c="alok" 
+t=type(c)
+print(t)
