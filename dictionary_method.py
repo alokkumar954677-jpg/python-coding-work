@@ -3,7 +3,7 @@ marks={"alok":100,
        "rohit":50,
        "kran":80
 }
-print(marks,type(marks))# dictionary ko print karta hai
+print(marks,type(marks))
 print(marks["alok"])# name se marks ko find karta hai
 print(marks.items())
 print(marks.keys())
