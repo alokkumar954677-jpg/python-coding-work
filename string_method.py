@@ -4,7 +4,7 @@ name="alok"
 print(len(name)) # it is used print linth 
 print(name.endswith("k")) #last letter print
 print(name.startswith("a"))# is used string function start letter to print
-print(name.capitalize())#use to string function smul first letter to convet capital letter
+print(name.capitalize()) # it can used small first character to convert  to capital
 count= name.count("o")
 print(count)
 name="alok kumar"
