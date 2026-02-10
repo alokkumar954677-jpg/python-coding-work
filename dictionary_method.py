@@ -4,7 +4,7 @@ marks={"alok":100,
        "kran":80
 }
 print(marks,type(marks))
-print(marks["alok"])# name se marks ko find karta hai
+print(marks["alok"])
 print(marks.items())
 print(marks.keys())
 print(marks.values())
@@ -15,6 +15,5 @@ print(len(marks))
 print(marks.get("alok")) # print none
 print(marks["alok"])#return an arror 
 
-# k=marks.pop('alok')# alok ko or alok kr mark   ko hata deta hai 
-# print(k)# alok marks print karta 
+ 
 print(marks)#marks list print
